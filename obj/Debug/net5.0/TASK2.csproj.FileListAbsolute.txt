@@ -1,0 +1,16 @@
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.csprojAssemblyReference.cache
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.AssemblyInfoInputs.cache
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.AssemblyInfo.cs
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.csproj.CoreCompileInputs.cache
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.exe
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.deps.json
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.runtimeconfig.json
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.runtimeconfig.dev.json
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.dll
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\ref\TASK2.dll
+C:\workspaces-cs\TASK2\bin\Debug\net5.0\TASK2.pdb
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.dll
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\ref\TASK2.dll
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.pdb
+C:\workspaces-cs\TASK2\obj\Debug\net5.0\TASK2.genruntimeconfig.cache
